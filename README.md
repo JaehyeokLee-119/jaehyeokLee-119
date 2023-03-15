@@ -1,5 +1,5 @@
 ### Hi there 👋
-Name: 이재혁 (Jaehyeok Lee)
+Name: 이재혁 (Jaehyeok Lee) <br>
 SKKU HLI lab
 
 ## Education
