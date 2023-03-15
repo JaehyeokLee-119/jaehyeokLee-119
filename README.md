@@ -1,4 +1,17 @@
 ### Hi there 👋
+Name: 이재혁 (Jaehyeok Lee)
+SKKU HLI lab
+
+## Education
+SungKyunKwan University(SKKU), South Korea (Feb 2017 - Feb 2023)
+- B.S., Computer Science and Engineering
+- B.S., Chemical Engineering
+
+SungKyunKwan University(SKKU), South Korea (Feb 2023 - now)
+- M.S., Artificial Intelligence
+
+## 📫 Contact
+e-mail : hjl8708@g.skku.edu
 
 <!--
 **jaehyeokLee-119/jaehyeokLee-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
