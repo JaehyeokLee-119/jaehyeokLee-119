@@ -1,6 +1,5 @@
 ### Hi there 👋
 Name: 이재혁 (Jaehyeok Lee) <br>
-SKKU HLI lab
 
 ## Education
 **SungKyunKwan University(SKKU), South Korea** (Feb 2023 - now)
