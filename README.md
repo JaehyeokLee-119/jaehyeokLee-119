@@ -3,12 +3,12 @@ Name: 이재혁 (Jaehyeok Lee) <br>
 SKKU HLI lab
 
 ## Education
+SungKyunKwan University(SKKU), South Korea (Feb 2023 - now)
+- M.S., Artificial Intelligence
+
 SungKyunKwan University(SKKU), South Korea (Feb 2017 - Feb 2023)
 - B.S., Computer Science and Engineering
 - B.S., Chemical Engineering
-
-SungKyunKwan University(SKKU), South Korea (Feb 2023 - now)
-- M.S., Artificial Intelligence
 
 ## 📫 Contact
 e-mail : hjl8708@g.skku.edu
