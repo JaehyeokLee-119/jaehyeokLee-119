@@ -10,7 +10,7 @@ Name: 이재혁 (Jaehyeok Lee) <br>
 - B.S., Chemical Engineering
 
 ## 📫 Contact
-e-mail : hjl8708@g.skku.edu
+e-mail : hjl8708@skku.edu
 
 <!--
 **jaehyeokLee-119/jaehyeokLee-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
