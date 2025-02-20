@@ -2,10 +2,13 @@
 Name: 이재혁 (Jaehyeok Lee) <br>
 
 ## Education
-**SungKyunKwan University(SKKU), South Korea** (Feb 2023 - now)
+**SungKyunKwan University(SKKU), South Korea** (Mar 2025 - )
+- Ph.D., Artificial Intelligence
+
+**SungKyunKwan University(SKKU), South Korea** (Mar 2023 - Feb 2025)
 - M.S., Artificial Intelligence
 
-**SungKyunKwan University(SKKU), South Korea** (Feb 2017 - Feb 2023)
+**SungKyunKwan University(SKKU), South Korea** (Mar 2017 - Feb 2023)
 - B.S., Computer Science and Engineering
 - B.S., Chemical Engineering
 
