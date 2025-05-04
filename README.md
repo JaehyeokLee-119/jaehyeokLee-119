@@ -1,5 +1,6 @@
 ### Hi there 👋
 Name: 이재혁 (Jaehyeok Lee) <br>
+https://jaehyeoklee-119.github.io/
 
 ## Education
 **SungKyunKwan University(SKKU), South Korea** (Mar 2025 - )
